@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Yasmine</h1>
-<h3 align="center">Passionate about Mobile Development and cyber security</h3>
+<h3 align="center">Passionate about web and app Development and cyber security</h3>
 
 ---
 ### 💻 About Me 
@@ -24,25 +24,4 @@
     <img src="https://img.icons8.com/officel/40/react.png" alt="react" width="40" height="40"/>
 </p>
 
----
-### 📈 GitHub Stats:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HADIL19&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=HADIL19&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </a>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HADIL19&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
-
----
-### 📊 Contribution Activity:
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HADIL19&theme=radical" alt="Contribution Graph"/>
-</p>
-
----
