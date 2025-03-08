@@ -35,6 +35,7 @@
         <img src="https://streak-stats.demolab.com?user=BechafiYasmine&theme=radical&hide_border=true" alt="GitHub Streak" />
     </a>
 </p>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BechafiYasmine&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
