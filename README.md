@@ -24,4 +24,27 @@
     <img src="https://img.icons8.com/officel/40/react.png" alt="react" width="40" height="40"/>
 </p>
 
+---
+
+### 📈 GitHub Stats:
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=BechafiYasmine&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=BechafiYasmine&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </a>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BechafiYasmine&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📊 Contribution Activity:
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BechafiYasmine&theme=radical" alt="Contribution Graph"/>
+</p>
+
+---
 
