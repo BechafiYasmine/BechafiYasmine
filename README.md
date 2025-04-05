@@ -16,6 +16,7 @@
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="nodejs" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
